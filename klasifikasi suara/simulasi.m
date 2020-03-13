@@ -4,7 +4,7 @@ clc;
 
 %Reading a file and getting the fundamental frequency, zero crossing, short energy
 %values
-[my2,fs] = audioread('s11.wav');
+[my2,fs] = audioread('s1.wav');
 
 %menampilkan grafik
 figure;
